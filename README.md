@@ -1,8 +1,8 @@
 # Winyx
 A window management tool for Windows 7 and above, designed for large screens to group and arrange windows on your screen for efficient multi-tasking.
-Winyx is similar to WindowSpace and Actual Window Manager, but more focused on automated arranging and space management.
+Winyx is similar to [WindowSpace](https://www.ntwind.com/software/windowspace.html) and [Actual Window Manager](https://www.actualtools.com/windowmanager/), but more focused on automated arranging and space management; not to mention, free and open source. This was an undergraduate university project.
 
-More information, screenshots, research paper and compiled .exe can be found here: http://mojo10.synology.me/~lemoney/winyx/
+More information, screenshots, research paper and compiled .exe can be found here: http://railkill.com/winyx/
 
 ### Current Status
 Not entirely complete, but it works. Code is messy but luckily this is still a small project. Needs refactoring.
